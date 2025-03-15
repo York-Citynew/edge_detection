@@ -1,3 +1,3 @@
-### edge detection via multiple methods.
+### Canny edge detector.
 To be implemented:
-- > double thresholding to identify weak edges.
+- > ~~double thresholding to identify weak edges.~~
